@@ -1,0 +1,29 @@
+# TESTFLIX
+Este projeto é uma simulação visual da tela inicial da Netflix, com o nome alternativo "Testflix".
+O objetivo é praticar HTML e CSS, recriando a experiência inicial da plataforma.
+
+# Instalação
+Pré-requisitos
+- Qualquer navegador moderno (Chrome, Firefox, Edge)
+  
+Tecnologias utilizadas
+- HTML
+- CSS
+  
+# Como executar
+- Clone este repositório: git clone <url-do-repositorio>
+- Abra o arquivo index.html em seu navegador.
+  
+# Estrutura do projeto
+O projeto está organizado da seguinte forma:
+- index.html: estrutura principal da aplicação
+- css/: arquivos de estilo
+- imagens/: favicon e avatares de perfil
+  
+# Contribuições
+- Criar página de login
+- Adicionar edição de perfil
+- Desenvolver páginas internas para cada perfil
+  
+# Licença
+Este projeto é de uso livre. Qualquer pessoa está autorizada a copiar, modificar e distribuir o código.
