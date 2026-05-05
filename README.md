@@ -11,7 +11,10 @@ Tecnologias utilizadas
 - CSS
   
 # Como executar
-- Clone este repositório: git clone <url-do-repositorio>
+- Clone este repositório:
+```bash
+git clone https://github.com/joaovteodoro/testflix.git
+```
 - Abra o arquivo index.html em seu navegador.
   
 # Estrutura do projeto
@@ -21,6 +24,7 @@ O projeto está organizado da seguinte forma:
 - imagens/: favicon e avatares de perfil
   
 # Contribuições
+Sugestões de melhorias:
 - Criar página de login
 - Adicionar edição de perfil
 - Desenvolver páginas internas para cada perfil
