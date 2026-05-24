@@ -1,4 +1,8 @@
 # TESTFLIX
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+
 Este projeto é uma simulação visual da tela inicial da Netflix, com o nome alternativo "Testflix".
 O objetivo é praticar HTML e CSS, recriando a experiência inicial da plataforma.
 
